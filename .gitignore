@@ -1,1 +1,7 @@
 java_gem_test_0902376782-*.gem
+
+# Intermediate build artifacts
+tmp/
+
+# Final build artifacts
+lib/*.jar
