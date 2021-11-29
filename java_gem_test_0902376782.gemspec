@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
     s.name        = 'java_gem_test_0902376782'
-    s.version     = '0.0.9'
+    s.platform    = 'java'
+    s.version     = '0.0.10'
     s.summary     = "Hola!"
     s.description = "A simple hello world gem"
     s.authors     = ["Matt Welke"]
