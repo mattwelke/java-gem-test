@@ -11,6 +11,8 @@ Manual build and install working. Uses scripts in `scripts` dir followed by `gem
 Script:
 
 ```ruby
+require 'java_gem_test_0902376782'
+
 puts 'Ruby:'
 JavaGemTest::HolaRuby.hi
 puts
